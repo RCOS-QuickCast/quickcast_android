@@ -29,34 +29,34 @@
             android:layout_weight="0">
 
 
-        <TextView
+        <ImageView
             android:id="@+id/r_player_0_item1"
-            android:background="@drawable/quickcast"
+            android:src="@drawable/quickcast"
             android:layout_height="36dp"
             android:layout_width="36dp"/>
-        <TextView
+        <ImageView
             android:id="@+id/r_player_0_item2"
-            android:background="@drawable/quickcast"
+            android:src="@drawable/quickcast"
             android:layout_height="36dp"
             android:layout_width="36dp"/>
-        <TextView
+        <ImageView
             android:id="@+id/r_player_0_item3"
-            android:background="@drawable/quickcast"
+            android:src="@drawable/quickcast"
             android:layout_height="36dp"
             android:layout_width="36dp"/>
-        <TextView
+        <ImageView
             android:id="@+id/r_player_0_item4"
-            android:background="@drawable/quickcast"
+            android:src="@drawable/quickcast"
             android:layout_height="36dp"
             android:layout_width="36dp"/>
-        <TextView
+        <ImageView
             android:id="@+id/r_player_0_item5"
-            android:background="@drawable/quickcast"
+            android:src="@drawable/quickcast"
             android:layout_height="36dp"
             android:layout_width="36dp"/>
-        <TextView
+        <ImageView
             android:id="@+id/r_player_0_item6"
-            android:background="@drawable/quickcast"
+            android:src="@drawable/quickcast"
             android:layout_height="36dp"
             android:layout_width="36dp"
             android:gravity="right" /> </LinearLayout>
@@ -82,34 +82,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_1_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_1_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_1_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_1_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_1_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_1_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -135,34 +135,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_2_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_2_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_2_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_2_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_2_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_2_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -188,34 +188,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_3_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_3_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_3_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_3_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_3_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_3_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -241,34 +241,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_4_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_4_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_4_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_4_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_4_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/r_player_4_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -307,34 +307,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_0_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_0_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_0_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_0_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_0_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_0_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -360,34 +360,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_1_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_1_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_1_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_1_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_1_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_1_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -413,34 +413,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_2_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_2_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_2_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_2_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_2_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_2_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -466,34 +466,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_3_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_3_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_3_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_3_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_3_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_3_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
@@ -519,34 +519,34 @@
             android:layout_weight="0">
 
 
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_4_item1"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_4_item2"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_4_item3"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_4_item4"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_4_item5"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"/>
-            <TextView
+            <ImageView
                 android:id="@+id/d_player_4_item6"
-                android:background="@drawable/quickcast"
+                android:src="@drawable/quickcast"
                 android:layout_height="36dp"
                 android:layout_width="36dp"
                 android:gravity="right" /> </LinearLayout>
