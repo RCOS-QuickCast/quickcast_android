@@ -13,5 +13,4 @@ Our current goal is to reach functionality for DOTA 2 while keeping our server a
 
 Our RCOS blog is located at https://rcos.io/projects/roastmaster/QuickCast/blog
 
-github repo for iOS version: https://github.com/ethanrcos/Quickcast_ios
-
+github repo for iOS version: https://github.com/RCOS-QuickCast/quickcast_ios
