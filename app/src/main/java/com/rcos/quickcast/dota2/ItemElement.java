@@ -47,16 +47,15 @@ public class ItemElement extends DrilldownElement {
         for (int i = 0; i < 10; i++) {
             while (j > -1) {
                 JSONObject player = (JSONObject) players.get(j);
-                //JSONObject itemset = (JSONObject) items.get(j);
                 if (player.getInt("team") == 0) {
                     Log.d("QUICKCAST!!!!", "found a player " + j + player.getString("name"));
                     radiantPlayers.add(player.getString("name"));
-                    //add in item images to radiantItems
+                    //to do: create a function to check which item id is each image, then store that info.
                     break;
                 } else if (player.getInt("team") == 1) {
                     Log.d("QUICKCAST!!!!", "found a player " + j + player.getString("name"));
                     direPlayers.add(player.getString("name"));
-                    //add in item images to direItems
+                    //to do: create a function to check which item id is each image, then store that info.
                     break;
                 }
                 j++;
@@ -91,10 +90,10 @@ public class ItemElement extends DrilldownElement {
         rPlayer.setText(radiantPlayers.get(4));
         dPlayer.setText(direPlayers.get(4));
 
-        /*TextView item = (TextView) element.findViewById(R.id.r_player_0_item1);
-        item.setBackground(picture 1 for guy 1);
-        item = (TextView) element.findViewById(R.id.r_player_0_item2);
-        item.setBackground(picture 2 for guy 2);*/
+        /*rPlayer = (TextView) element.findViewById(R.id.r_player_0_item1);
+        rPlayer.setImage(picture 1 for guy 1);
+        rPlayer = (TextView) element.findViewById(R.id.r_player_0_item2);
+        rplayer.setImage(picture 2 for guy 2);*/
         //etc
 
         return element;
