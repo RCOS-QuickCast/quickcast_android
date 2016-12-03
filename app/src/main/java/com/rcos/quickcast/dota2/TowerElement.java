@@ -39,8 +39,8 @@ public class TowerElement extends DrilldownElement {
         direName    = dire.getString("team_name");
 
         for(int i=0; i<2; i++) {
-            //JSONObject tower = (JSONObject) towers.get(j);
-            //get tower info, if 0 then radiant, if 1 then dire
+            //JSONObject tower = (JSONObject) towers.get(j); <==something like this?
+            //get tower status info, if 0 then radiant, if 1 then dire
         }
 
         Log.d("QUICKCAST!!!!", "constructed tower element");
@@ -57,6 +57,8 @@ public class TowerElement extends DrilldownElement {
         tableDire.setText(String.format("Dire: %s", direName));
 
         //add tower stuff
+        //tower element is essentially checking with bools which towers are down and coloring those red.
+        //its very basic, but it gives the necessary information and is very readable.
 
         return element;
     }
