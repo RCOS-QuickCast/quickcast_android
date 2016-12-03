@@ -38,15 +38,11 @@ public class TowerElement extends DrilldownElement {
         radiantName = radiant.getString("team_name");
         direName    = dire.getString("team_name");
 
-        //we're guaranteed to have 10 players with id 0 or 1, so we do this:
-        int j = 0;
-        for (int i=0; i < 10; i++) {
-            while (j > -1) {
-                //JSONObject tower = (JSONObject) towers.get(j);
-                //get tower info
-            }
-            j++;
+        for(int i=0; i<2; i++) {
+            //JSONObject tower = (JSONObject) towers.get(j);
+            //get tower info, if 0 then radiant, if 1 then dire
         }
+
         Log.d("QUICKCAST!!!!", "constructed tower element");
     }
 
